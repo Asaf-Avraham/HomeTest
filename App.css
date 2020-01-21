@@ -1,0 +1,90 @@
+.header_area {
+    background: #3399FF;
+}
+
+.slogan {
+    font-size: 18px;
+}
+
+.nav_inn {
+    overflow: hidden;
+}
+
+.nav_inn ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.nav_inn ul li {
+    float: left;
+}
+
+.nav_inn ul li a {
+    display: block;
+    padding: 10px 20px;
+    color: #000000;
+}
+
+.post h2 {
+    border-bottom: solid black;
+}
+
+.link_download {
+    background: #F2F2F2;
+    padding: 80px;
+    border: 1px solid #F2F2F2;
+    padding-bottom: 80px;
+    padding-left: 3px;
+    padding-top: 5px;
+    border-bottom-width: 112px;
+}
+
+.download h2 {
+    background: #3399FF;
+    color: #ffffff;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px;
+    padding: 10px;
+}
+
+.top {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #ffffff;
+}
+
+.solid {
+    border-bottom: solid black;
+}
+
+.divfix {
+    height: 605px;
+    width: 247px;
+    background: #E5E5E5;
+    border: 1px solid #E5E5E5;
+    position: fixed;
+    visibility: visible;
+    left: 1566.5px;
+    top: 189px;
+}
+
+.divfix img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.divfix button {
+    background-color: #33CC33;
+    color: #ffffff;
+    width: 180px;
+    padding-top: 11px;
+    padding-bottom: 7px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
